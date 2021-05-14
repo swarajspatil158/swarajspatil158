@@ -7,5 +7,4 @@
 - 📫 [**Connect via LinkedIn**](https://www.linkedin.com/in/swarajspatil/)
 - ⚡ Fun fact: I am Night Owl 👻
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=swarajspatil158&hide_border=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=swarajspatil158&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
