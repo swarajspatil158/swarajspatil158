@@ -1,4 +1,4 @@
-# Hi there 👋 Namaste 🙏
+# Hi there, 👋 Namaste! 🙏
 ## 😃 Just dive right in 🙌
 
 - 🔭 I’m currently working on Problem Solving 🎮
