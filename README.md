@@ -1,5 +1,5 @@
 # Hi there 👋
-## :smiley: Just dive right in
+## 😃 Just dive right in 🙌
 
 <!--
 **swarajspatil158/swarajspatil158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
