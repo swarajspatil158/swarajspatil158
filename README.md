@@ -2,7 +2,7 @@
 ## 😃 Just dive right in 🙌
 
 - 🔭 I’m currently working on Problem Solving 🎮
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Front-end developement
 - 💬 Ask me about Python🐍/Interesting Tech 🔌
 - 📫 Reach me at:
   - [**LinkedIn**](https://www.linkedin.com/in/swarajspatil/)
