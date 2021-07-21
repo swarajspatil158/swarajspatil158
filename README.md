@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 ## 😃 Just dive right in 🙌
 
 - 🔭 I’m currently working on Problem Solving 🎮
