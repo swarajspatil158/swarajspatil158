@@ -1,4 +1,4 @@
-# Hello 👋
+# Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Swaraj
 ## 😃 Just dive right in 🙌
 
 - 🔭 I’m currently working on Problem Solving 🎮
