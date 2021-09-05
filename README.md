@@ -2,7 +2,7 @@
 ## 😃 Just dive right in 🙌
 ## `tools & technologies`
 `Python` `Javascript` `Vim` `C++` `React` `Github`
-![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/blob/[branch]/image.jpg?raw=true)
+![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/?raw=true)
 
 #
 <img src="https://github-readme-stats.vercel.app/api?username=swarajspatil158&&show_icons=true&title_color=2aa198&icon_color=cb4b16&text_color=eee8d5&bg_color=073642">
