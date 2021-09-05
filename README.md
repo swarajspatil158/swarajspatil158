@@ -2,7 +2,7 @@
 ## 😃 Just dive right in 🙌
 ## `tools & technologies`
 `Python` `Javascript` `Vim` `C++` `React` `Github`
-![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.png?raw=true)
+![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters%20(1).png?raw=true)
 <!-- ![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters%20(1).gif?raw=true) -->
 
 #
