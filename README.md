@@ -13,8 +13,9 @@
 # Let's Talk :incoming_envelope:	
    `swarajspatil158@outlook.com`
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
+
+<embed src="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.pdf" type ="application/pdf">
+ </embed>
+ <object data="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.pdf" type="application/pdf" width="100%">
+    
 </object>
