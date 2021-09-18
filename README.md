@@ -6,7 +6,7 @@
 <!-- ![tools&technologies](https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters%20(1).gif?raw=true) -->
 
 #
- <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.png">            | 
+ <img src="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.png">            | 
 :-------------------------:|
  |![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swarajspatil158) 
 
