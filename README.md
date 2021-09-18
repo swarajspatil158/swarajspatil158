@@ -12,10 +12,3 @@
 
 # Let's Talk :incoming_envelope:	
    `swarajspatil158@outlook.com`
-
-
-<embed src="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.pdf" type ="application/pdf">
- </embed>
- <object data="https://github.com/swarajspatil158/swarajspatil158/blob/main/space-monsters.pdf" type="application/pdf" width="100%">
-    
-</object>
