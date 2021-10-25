@@ -8,7 +8,7 @@
 #
  <img src="https://github.com/swarajspatil158/swarajspatil158/blob/main/mytech.png">            | 
 :-------------------------:|
-<!--  |![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swarajspatil158)  -->
+ |![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swarajspatil158) 
 
 
 # Let's Talk :incoming_envelope:	
