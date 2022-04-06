@@ -12,4 +12,4 @@
 
 
 # Let's Talk :incoming_envelope:	
-   `swarajspatil@outlook.com`
+   `swarajspatil@gmail.com`
