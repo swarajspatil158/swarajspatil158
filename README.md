@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer.</h1>
 <h3 align="center">I can solve your JS doubts.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarajspatil158" alt="swarajspatil158" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/swarajsp_" target="blank"><img src="https://img.shields.io/twitter/follow/swarajsp_?logo=twitter&style=for-the-badge" alt="swarajsp_" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **MERN Stack.**
 
