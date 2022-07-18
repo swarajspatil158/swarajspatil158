@@ -22,7 +22,7 @@
 <a href="https://twitter.com/swarajsp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swarajsp_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swarajspatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarajspatil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/swarajsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="swarajsp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucz2vh__ck9kszw1ir2qk-_q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucz2vh__ck9kszw1ir2qk-_q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCz2vH__ck9KSzw1iR2Qk-_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucz2vh__ck9kszw1ir2qk-_q" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swarajsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swarajsp" height="30" width="40" /></a>
 </p>
 
