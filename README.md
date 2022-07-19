@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer.</h1>
-<h3 align="center">I can solve your JS doubts.</h3>
+<h3 align="center">I can solve your JS doubts. At least die trying until my chess time</h3>
 
 
 
