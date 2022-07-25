@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently into **CSS**
 
 - 👨‍💻 All of my projects are available at [https://www.swarajpatil.tech/](https://www.swarajpatil.tech/)
 
