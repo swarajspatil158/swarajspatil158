@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently into **CSS**
 
-- 👨‍💻 All of my projects are available at [https://www.swarajpatil.tech/](https://www.swarajpatil.tech/)
+- 👨‍💻 All of my projects are available at [git.io/swarajpatil](https://git.io/swarajpatil)
 
 - 💬 Ask me about **react, javascript, python, linux.**
 
