@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swarajspatil158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11qBc6CKZ7Z0IjSz6j8hOvevxN8jF6w7y/view](https://drive.google.com/file/d/11qBc6CKZ7Z0IjSz6j8hOvevxN8jF6w7y/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view](https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view)
 
 - ⚡ Fun fact **Snippets tool inside the dev-tools is my current favourite.**
 
