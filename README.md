@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view](https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view)
 
-- ⚡ Fun fact **Snippets tool inside the dev-tools is my current favourite.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
