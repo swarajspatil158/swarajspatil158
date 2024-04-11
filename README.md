@@ -5,15 +5,15 @@
 
 
 
-- 🌱 I’m currently into **CSS**
+- 🌱 I’m currently into **NextJS, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [git.io/swarajpatil](https://git.io/swarajpatil)
 
-- 💬 Ask me about **react, javascript, python, linux.**
+- 💬 Ask me about **nextjs, react, javascript, linux.**
 
 - 📫 How to reach me **swarajspatil158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view](https://drive.google.com/file/d/1xigwC8XA1JIVkLtw8OaotJRHe04uGFC-/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17bABvHJ3ao9aGs3XzSD2pdghnwxa2unr/view?usp=sharing](https://drive.google.com/file/d/17bABvHJ3ao9aGs3XzSD2pdghnwxa2unr/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
