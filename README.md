@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently into **NextJS, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [git.io/swarajpatil](https://git.io/swarajpatil)
+- 👨‍💻 All of my projects are available at [swarajsp.com](https://swarajsp.com)
 
 - 💬 Ask me about **nextjs, react, javascript, linux.**
 
 - 📫 How to reach me **swarajspatil158@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17bABvHJ3ao9aGs3XzSD2pdghnwxa2unr/view?usp=sharing](https://drive.google.com/file/d/17bABvHJ3ao9aGs3XzSD2pdghnwxa2unr/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
