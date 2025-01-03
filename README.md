@@ -13,21 +13,22 @@ class SwarajPatil extends WebFullstackEngineer {
     readonly name = "Swaraj Patil";
     readonly location = "India";
     
-    getCurrentFocus(): string[] {
+    getCurrentQuests(): string[] {
         return [
             "Building scalable web applications",
             "Exploring AI & Websockets",
-            "Contributing to Open Source"
+            "Contributing to Open Source",
+            "Revisiting Computer Science Fundamentals"
         ];
     }
     
     getSkills(): TechStack {
         return {
             languages: ["JavaScript", "TypeScript", "Python"],
-            frontend: ["React", "Next.js", "Redux", "Tailwind CSS", "Websockets", "Prisma"],
+            frontend: ["React", "Next.js", "Redux", "Tailwind CSS", "Prisma"],
             backend: ["Node.js", "Express"],
             databases: ["MongoDB", "PostgreSQL", "Mysql"],
-            tools: ["Docker", "Git", "AWS", "linux", "langchain", "langgraph"],
+            tools: ["Docker", "Git", "AWS", "linux", "langchain", "langgraph", "Websockets"],
             architecture: ["Microservices", "Event-Driven", "REST"]
         };
     }
